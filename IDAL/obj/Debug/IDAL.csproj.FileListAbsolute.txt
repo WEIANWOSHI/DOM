@@ -1,0 +1,8 @@
+D:\D-文档\c#(C Sharp)\vs-text\超市进销售管理系统\IDAL\bin\Debug\IDAL.dll
+D:\D-文档\c#(C Sharp)\vs-text\超市进销售管理系统\IDAL\bin\Debug\IDAL.pdb
+D:\D-文档\c#(C Sharp)\vs-text\超市进销售管理系统\IDAL\bin\Debug\Moder.dll
+D:\D-文档\c#(C Sharp)\vs-text\超市进销售管理系统\IDAL\bin\Debug\Moder.pdb
+D:\D-文档\c#(C Sharp)\vs-text\超市进销售管理系统\IDAL\obj\Debug\IDAL.csprojAssemblyReference.cache
+D:\D-文档\c#(C Sharp)\vs-text\超市进销售管理系统\IDAL\obj\Debug\IDAL.csproj.CopyComplete
+D:\D-文档\c#(C Sharp)\vs-text\超市进销售管理系统\IDAL\obj\Debug\IDAL.dll
+D:\D-文档\c#(C Sharp)\vs-text\超市进销售管理系统\IDAL\obj\Debug\IDAL.pdb
